@@ -1,6 +1,6 @@
 # DDD Tool
 
-The desktop application for **Diagram-Driven Development** — design software visually as flow graphs, then generate implementation code from specs.
+The desktop application for **Design Driven Development** — design software visually as flow graphs, then generate implementation code from specs.
 
 Built with Tauri 2.0 (Rust) + React + TypeScript.
 
