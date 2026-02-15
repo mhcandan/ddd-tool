@@ -1,12 +1,12 @@
 # DDD Tool
 
-The desktop application for **Diagram-Driven Development** — design software visually, let AI implement it.
+The desktop application for **Diagram-Driven Development** — design software visually as flow graphs, then generate implementation code from specs.
 
-Built with Tauri (Rust) + React + TypeScript.
+Built with Tauri 2.0 (Rust) + React + TypeScript.
 
 ## Specification
 
-Full spec and design docs: [mhcandan/DDD](https://github.com/mhcandan/DDD)
+Full spec, usage guide, and methodology docs: [mhcandan/DDD](https://github.com/mhcandan/DDD)
 
 ## Setup
 
